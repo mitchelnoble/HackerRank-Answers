@@ -48,3 +48,4 @@ function vowelsAndConsonants(s) {
 }
 
 console.log(vowelsAndConsonants("javascriptloops"));
+//HackerRank has a bug in the console.log portion? or I don't know how to write a console.log that it likes.
